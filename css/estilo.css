@@ -1,0 +1,27 @@
+/* classe jumbotron - não existe no bootstrap 5 */
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+  }
+  
+  .centralizado{
+    text-align: center;
+  }
+  
+  .formulario{
+    padding: 3rem;
+    margin-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #CFF09E;
+    border-color: #326A78;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 7px;
+    height: auto;
+    width: 600px;;
+  
+  }  
